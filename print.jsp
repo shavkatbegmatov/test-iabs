@@ -154,7 +154,7 @@
 	if (branch_id.equals("11207")) {
 		stream = new FileInputStream("/u01/webapp/iabs/ibs/qqb/contracts/documents/asosiy-20230412-yakkasaroy.docx");
 	} else {
-		stream = new FileInputStream("/u01/webapp/iabs/ibs/qqb/contracts/documents/asosiy-20230412---.docx");
+		stream = new FileInputStream("/u01/webapp/iabs/ibs/qqb/contracts/documents/asosiy-20230412.docx");
 	}
 
 
